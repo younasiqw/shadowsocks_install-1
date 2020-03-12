@@ -7,7 +7,7 @@
     - `wget --no-check-certificate https://raw.githubusercontent.com/younasiqw/shadowsocks_install-1/master/shadowsocks-libev.sh
 chmod +x shadowsocks-libev.sh
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log`
-============================================================================
+=========================================================================
 - shadowsocks-libev-debian.sh
 ============================================================================
 - shadowsocks-go.sh
@@ -20,7 +20,7 @@ chmod +x shadowsocks-libev.sh
     - `wget --no-check-certificate https://raw.githubusercontent.com/younasiqw/shadowsocks_install-1/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log`
-============================================================================
+=========================================================================
 - haproxy.sh
 ============================================================================
 Copyright (C) 2014-2020 MrHokusai
