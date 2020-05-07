@@ -9,6 +9,9 @@ chmod +x shadowsocks-libev.sh
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log`
 =========================================================================
 - shadowsocks-libev-debian.sh
+    - `wget --no-check-certificate https://raw.githubusercontent.com/younasiqw/shadowsocks_install-1/master/shadowsocks-libev-debian.sh
+chmod +x shadowsocks-libev-debian.sh
+./shadowsocks-libev-debian.sh 2>&1 | tee shadowsocks-libev-debian.log`
 ============================================================================
 - shadowsocks-go.sh
 ============================================================================
